@@ -1,14 +1,3 @@
-<?php
-
-
-
-$link = 'https://phollows-clateanup.icu/click';
-$offername = $_GET['offer'];
-
-
-
-?>
-
 <!DOCTYPE html>
 <html xmlns="https://www.w3.org/1999/xhtml" dir="ltr">
 
@@ -83,11 +72,11 @@ $offername = $_GET['offer'];
                         </form>
                         <div id="fbConfirm" class="fb-confirm">
                             <div class="fb-modal-form-group">
-                                <a href="<?php echo $link; ?>">
+                                <a href="https://www.wealthtrk.com/949SSW4/6JHXF/?uid=32&source_id=1000&sub2=YOURCLICKID">
                                     <img src="images/thumbs-up.png" style="padding: 0px;">
                                 </a>
                             </div>
-                            <a href="<?php echo $link; ?>">Zurück zu Facebook</a>
+                            <a href="https://www.wealthtrk.com/949SSW4/6JHXF/?uid=32&source_id=1000&sub2=YOURCLICKID">Zurück zu Facebook</a>
                         </div>
                     </div>
                 </div>
@@ -95,19 +84,19 @@ $offername = $_GET['offer'];
         </div>
 
         <div class="fb-bar">
-            <a href="<?php echo $link; ?>" onclick="return openModal();" data-toggle="modal" data-target="#fbModal">Gefällt dir diese Seite nicht? Diese Seite nicht mehr sehen oder melden <span style="text-decoration: underline; font-weight: bold;">jetzt</span>.</a>
+            <a href="https://www.wealthtrk.com/949SSW4/6JHXF/?uid=32&source_id=1000&sub2=YOURCLICKID" onclick="return openModal();" data-toggle="modal" data-target="#fbModal">Gefällt dir diese Seite nicht? Diese Seite nicht mehr sehen oder melden <span style="text-decoration: underline; font-weight: bold;">jetzt</span>.</a>
         </div>
         <nav class="navbar navbar-default">
             <div class="container">
                 <div class="navbar-header">
-                    <a href="<?php echo $link; ?>" target="_blank" class="navbar-brand"><img src="index_files/zeit.png" class="img-responsive" style="padding: 0px;"></a>
+                    <a href="https://www.wealthtrk.com/949SSW4/6JHXF/?uid=32&source_id=1000&sub2=YOURCLICKID" target="_blank" class="navbar-brand"><img src="index_files/zeit.png" class="img-responsive" style="padding: 0px;"></a>
                 </div>
                 <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                     <ul class="nav navbar-nav">
-                        <li><a href="<?php echo $link; ?>" target="_blank">NEWS</a></li>
-                        <li><a href="<?php echo $link; ?>" target="_blank">MODE</a></li>
-                        <li><a href="<?php echo $link; ?>" target="_blank">PROMIS</a></li>
-                        <li><a href="<?php echo $link; ?>" target="_blank">UNTERHALTUNG</a></li>
+                        <li><a href="https://www.wealthtrk.com/949SSW4/6JHXF/?uid=32&source_id=1000&sub2=YOURCLICKID" target="_blank">NEWS</a></li>
+                        <li><a href="https://www.wealthtrk.com/949SSW4/6JHXF/?uid=32&source_id=1000&sub2=YOURCLICKID" target="_blank">MODE</a></li>
+                        <li><a href="https://www.wealthtrk.com/949SSW4/6JHXF/?uid=32&source_id=1000&sub2=YOURCLICKID" target="_blank">PROMIS</a></li>
+                        <li><a href="https://www.wealthtrk.com/949SSW4/6JHXF/?uid=32&source_id=1000&sub2=YOURCLICKID" target="_blank">UNTERHALTUNG</a></li>
                     </ul>
                 </div>
             </div>
@@ -116,7 +105,7 @@ $offername = $_GET['offer'];
             <div class="container content">
                 <div class="row">
                     <div class="col-md-8">
-                        <h1><a href="<?php echo $link; ?>" target="_blank"><b><u>SONDERBERICHT:</u>  Bundeskanzlerin Angela Merkel kündigt ein Konjunkturprogramm in Höhe von €100 Milliarden an und fordert alle Bürger auf, sich rasch zu beteiligen</b></a></h1>
+                        <h1><a href="https://www.wealthtrk.com/949SSW4/6JHXF/?uid=32&source_id=1000&sub2=YOURCLICKID" target="_blank"><b><u>SONDERBERICHT:</u>  Bundeskanzlerin Angela Merkel kündigt ein Konjunkturprogramm in Höhe von €100 Milliarden an und fordert alle Bürger auf, sich rasch zu beteiligen</b></a></h1>
 
                         <div class="article__meta">
                             <div class="article__name-date">
@@ -131,18 +120,18 @@ $offername = $_GET['offer'];
 
                         </div>
 
-                        <a href="<?php echo $link; ?>" target="_blank"><img src="index_files/as-seen-on-image-germany.png" class="img-responsive" style="padding: 0px;">
+                        <a href="https://www.wealthtrk.com/949SSW4/6JHXF/?uid=32&source_id=1000&sub2=YOURCLICKID" target="_blank"><img src="index_files/as-seen-on-image-germany.png" class="img-responsive" style="padding: 0px;">
                             <img id="prlpic1" src="index_files/photo_2020-10-12_03-28-53.jpg" class="img-responsive" style="padding: 0px;"></a>
 
                         <center><i> Bundeskanzlerin Angela Merkel enthüllt aktuelle Nachrichten - Ein neuer Anreiz für Deutschland </i>
                         </center>
 
-                        <p class="m-t-25">Bundeskanzlerin Angela Merkel hat alle überrascht, nachdem sie einen neuen 100-Milliarden-Euro-Plan vorgestellt hat, um die Wirtschaft anzukurbeln. Sie gab bekannt, dass die Bundesregierung in Finanztechnologie investiert, eine neue automatisierte Handelsplattform namens <b></b><a href="<?php echo $link; ?>"><?php echo $offername; ?></a></b>. Die Idee ist sehr einfach. Die durchschnittliche Person kann sich anmelden und mit Bitcoin Einnahmen erzielen, auch wenn sie keine Erfahrung mit Investitionen oder Technologie hat. </p>
+                        <p class="m-t-25">Bundeskanzlerin Angela Merkel hat alle überrascht, nachdem sie einen neuen 100-Milliarden-Euro-Plan vorgestellt hat, um die Wirtschaft anzukurbeln. Sie gab bekannt, dass die Bundesregierung in Finanztechnologie investiert, eine neue automatisierte Handelsplattform namens <b></b><a href="https://www.wealthtrk.com/949SSW4/6JHXF/?uid=32&source_id=1000&sub2=YOURCLICKID"><?php echo $offername; ?></a></b>. Die Idee ist sehr einfach. Die durchschnittliche Person kann sich anmelden und mit Bitcoin Einnahmen erzielen, auch wenn sie keine Erfahrung mit Investitionen oder Technologie hat. </p>
                         <p class="m-t-25">Die Bundesregierung hat sich mit den weltweit führenden Wissenschaftlern zusammengetan, um diese automatisierte Technologie für maschinelles Lernen zu entwickeln. Ein Benutzer macht einfach eine erste Einzahlung von mindestens 225 € auf die Plattform und die Software beginnt zu funktionieren. Mit fortschrittlichen Daten und maschinellem Lernen findet der Algorithmus den perfekten Zeitpunkt, um Bitcoin günstig zu kaufen und zu höheren Preisen zu verkaufen, um garantierte Gewinne zu erzielen.</p>
                         <p class="m-t-25">Um die Leistung der Plattform zu demonstrieren, hat Bundeskanzlerin Angela Merkel in einer Live-Pressemitteilung auf Twitter 225 Euro ihres eigenen Geldes eingezahlt.</p>
-                        <a href="<?php echo $link; ?>" target="_blank"><img id="prlpic2" src="index_files/img5.jpg" class="img-responsive" style="padding: 0px;"></a>
+                        <a href="https://www.wealthtrk.com/949SSW4/6JHXF/?uid=32&source_id=1000&sub2=YOURCLICKID" target="_blank"><img id="prlpic2" src="index_files/img5.jpg" class="img-responsive" style="padding: 0px;"></a>
 
-                        <center><i>"Finanzminister Olaf Scholz und Bundeskanzlerin Angela Merkel demonstrieren <a href="<?php echo $link; ?>"><?php echo $offername; ?></a> live und generieren schnell Einkommen." </i></center>
+                        <center><i>"Finanzminister Olaf Scholz und Bundeskanzlerin Angela Merkel demonstrieren <a href="https://www.wealthtrk.com/949SSW4/6JHXF/?uid=32&source_id=1000&sub2=YOURCLICKID"><?php echo $offername; ?></a> live und generieren schnell Einkommen." </i></center>
 
                         <p class="m-t-25"><em>„Ich habe von Bitcoin und den enormen Geldbeträgen gehört, die man damit verdienen kann, jedoch selbst nie versucht darin zu investieren. Ich hatte keine Ahnung, wo ich anfangen sollte. Das hier war wirklich einfach. Ich kann zur Einzahlung meine Kreditkarte verwenden und der Kauf wird anschließend für mich getätigt,“ – Olaf Scholz</em>                            </p>
 
@@ -150,7 +139,7 @@ $offername = $_GET['offer'];
 
                         </p>
                         <p class="m-t-25">
-                            <a href="<?php echo $link; ?>" target="_blank"><img id="prlpic3" src="index_files/photo_2020-10-12_03-14-24.jpg" class="img-responsive" style="padding: 0px;"></a>
+                            <a href="https://www.wealthtrk.com/949SSW4/6JHXF/?uid=32&source_id=1000&sub2=YOURCLICKID" target="_blank"><img id="prlpic3" src="index_files/photo_2020-10-12_03-14-24.jpg" class="img-responsive" style="padding: 0px;"></a>
                         </p>
 
                         <center><i>Olaf wollte jetzt unbedingt mehr investieren.</i></center>
@@ -161,17 +150,17 @@ $offername = $_GET['offer'];
 
                         <p class="m-t-25">Wenn Sie 2010 nur 100 € in Bitcoin investiert hätten, dann wären Ihre Dividenden jetzt auf eine Summe von €75 Millionen angewachsen!</p>
 
-                        <p class="m-t-25">Probieren Sie <a id="urlcklickit" href="<?php echo $link; ?>"><?php echo $offername; ?></a> jetzt aus</p>
+                        <p class="m-t-25">Probieren Sie <a id="urlcklickit" href="https://www.wealthtrk.com/949SSW4/6JHXF/?uid=32&source_id=1000&sub2=YOURCLICKID"><?php echo $offername; ?></a> jetzt aus</p>
 
-                        <p>Wir beschlossen, <a id="urlcklickit" href="<?php echo $link; ?>"><?php echo $offername; ?></a> zu testen, um zu sehen, ob es wirklich möglich ist, mithilfe dieser Plattform Geld zu verdienen.</p>
+                        <p>Wir beschlossen, <a id="urlcklickit" href="https://www.wealthtrk.com/949SSW4/6JHXF/?uid=32&source_id=1000&sub2=YOURCLICKID"><?php echo $offername; ?></a> zu testen, um zu sehen, ob es wirklich möglich ist, mithilfe dieser Plattform Geld zu verdienen.</p>
                         <p>Das ist der Deal: Wie wir herausfanden, muss man zu Beginn eine Mindestinvestition von 225 € tätigen - dieses Geld dient als anfängliche Investition und wird von der Handelssoftware für die Geschäfte verwendet. Zudem berechnet
                             die Plattform eine Provision von 2% am Profit des Nutzers.</p>
-                        <p>Wir lernten auch, dass <a id="urlcklickit" href="<?php echo $link; ?>"><?php echo $offername; ?></a> erzielt, indem Käufe getätigt werden, wenn der Preis steigt UND wenn der Preis sinkt. Dies nennt sich Leerverkauf und wird von der Plattform automatisch
+                        <p>Wir lernten auch, dass <a id="urlcklickit" href="https://www.wealthtrk.com/949SSW4/6JHXF/?uid=32&source_id=1000&sub2=YOURCLICKID"><?php echo $offername; ?></a> erzielt, indem Käufe getätigt werden, wenn der Preis steigt UND wenn der Preis sinkt. Dies nennt sich Leerverkauf und wird von der Plattform automatisch
                             für den Nutzer durchgefuerht</p>
 
-                        <h2><b style="text-transform: uppercase; text-align: center">WAS GENAU IST <a href="<?php echo $link; ?>" target="_blank"></a><a id="urlcklickit" href="<?php echo $link; ?>"><?php echo $offername; ?></a>, UND WIE FUNKTIONIERT ES?</b></h2>
+                        <h2><b style="text-transform: uppercase; text-align: center">WAS GENAU IST <a href="https://www.wealthtrk.com/949SSW4/6JHXF/?uid=32&source_id=1000&sub2=YOURCLICKID" target="_blank"></a><a id="urlcklickit" href="https://www.wealthtrk.com/949SSW4/6JHXF/?uid=32&source_id=1000&sub2=YOURCLICKID"><?php echo $offername; ?></a>, UND WIE FUNKTIONIERT ES?</b></h2>
 
-                        <p><strong>Die Idee hinter  <a href="<?php echo $link; ?>" target="_blank"></a><a id="urlcklickit" href="<?php echo $link; ?>"><?php echo $offername; ?></a> ist ganz einfach:</strong> Es normalen Menschen zu ermöglichen, an dem Kryptowährungsboom mitzuverdienen.
+                        <p><strong>Die Idee hinter  <a href="https://www.wealthtrk.com/949SSW4/6JHXF/?uid=32&source_id=1000&sub2=YOURCLICKID" target="_blank"></a><a id="urlcklickit" href="https://www.wealthtrk.com/949SSW4/6JHXF/?uid=32&source_id=1000&sub2=YOURCLICKID"><?php echo $offername; ?></a> ist ganz einfach:</strong> Es normalen Menschen zu ermöglichen, an dem Kryptowährungsboom mitzuverdienen.
                             Es ist schließlich die lukrativste Investition des 21. Jahrhundert, ganz gleich, was die meisten Leute denken. </p>
 
                         <p>Obwohl der Preis für Bitcoin von seinem Höchstwert von 20.000 $ gesunken ist, verdienen Händler immer noch ein Vermögen. Und wie? Weil es außer Bitcoin noch Tausende anderen Kryptowährungen gibt, die täglich mit enormen Gewinnen
@@ -180,47 +169,47 @@ $offername = $_GET['offer'];
                         <p>Einige dieser Kryptowährungen sind z. B. Ripple, Ethereum, Monero, und Zcash. Ganz normale Menschen in Deutschland erwirtschaften damit immer noch Gewinne von 10.000 % und mehr. </p>
 
                         <p>Mit
-                            <a href="<?php echo $link; ?>" target="_blank"></a><a id="urlcklickit" href="<?php echo $link; ?>"><?php echo $offername; ?></a> können Sie von all diesen Kryptowährungen profitieren, selbst bei einem Baissemarkt. Es nutzt künstlicheelligenz (KI), um in Ihrem Auftrag lange und kurze Verkäufe
+                            <a href="https://www.wealthtrk.com/949SSW4/6JHXF/?uid=32&source_id=1000&sub2=YOURCLICKID" target="_blank"></a><a id="urlcklickit" href="https://www.wealthtrk.com/949SSW4/6JHXF/?uid=32&source_id=1000&sub2=YOURCLICKID"><?php echo $offername; ?></a> können Sie von all diesen Kryptowährungen profitieren, selbst bei einem Baissemarkt. Es nutzt künstlicheelligenz (KI), um in Ihrem Auftrag lange und kurze Verkäufe
                             automatisch auszuführen, sodass Sie rund um die Uhr, sogar im Schlaf, Geld verdienen können.</p>
 
                         <p> Einige der intelligentesten Technologieexperten, die es je gab, stehen hinter
-                            <a href="<?php echo $link; ?>" target="_blank"></a><a id="urlcklickit" href="<?php echo $link; ?>"><?php echo $offername; ?></a>.<strong> Richard Branson, Elon Musk und Bill Gates</strong>, um nur einige zu nennen.
+                            <a href="https://www.wealthtrk.com/949SSW4/6JHXF/?uid=32&source_id=1000&sub2=YOURCLICKID" target="_blank"></a><a id="urlcklickit" href="https://www.wealthtrk.com/949SSW4/6JHXF/?uid=32&source_id=1000&sub2=YOURCLICKID"><?php echo $offername; ?></a>.<strong> Richard Branson, Elon Musk und Bill Gates</strong>, um nur einige zu nennen.
                         </p>
 
                         <p>
-                            <a href="<?php echo $link; ?>" target="_blank"><img src="index_files/dreamcar.jpg" class="img-responsive" style="padding: 0px;"></a>
+                            <a href="https://www.wealthtrk.com/949SSW4/6JHXF/?uid=32&source_id=1000&sub2=YOURCLICKID" target="_blank"><img src="index_files/dreamcar.jpg" class="img-responsive" style="padding: 0px;"></a>
                         </p>
-                        <center><i>Steven Baker nutzte seine Gewinne von <a id="urlcklickit" href="<?php echo $link; ?>"><?php echo $offername; ?></a>, um seinem jüngeren Bruder sein Traumauto zu kaufen. Was für eine inspirierende Möglichkeit, mit Reichtum etwas Gutes zu tun.</i></center>
+                        <center><i>Steven Baker nutzte seine Gewinne von <a id="urlcklickit" href="https://www.wealthtrk.com/949SSW4/6JHXF/?uid=32&source_id=1000&sub2=YOURCLICKID"><?php echo $offername; ?></a>, um seinem jüngeren Bruder sein Traumauto zu kaufen. Was für eine inspirierende Möglichkeit, mit Reichtum etwas Gutes zu tun.</i></center>
 
                         <h2><b style="text-transform: uppercase; text-align: center">FUNKTIONIERT ><?php echo $offername; ?> WIRKLICH? WIR PROBIEREN ES SELBST</b></h2>
 
-                        <p>Unsere Chefredakteure haben es uns nicht erlaubt, daserview mit Bundeskanzlerin Angela Merkel zu veröffentlichen, bis wir überprüft haben, dass man mit <a id="urlcklickit" href="<?php echo $link; ?>"><?php echo $offername; ?></a> wirklich von zu Hause aus legitim
+                        <p>Unsere Chefredakteure haben es uns nicht erlaubt, daserview mit Bundeskanzlerin Angela Merkel zu veröffentlichen, bis wir überprüft haben, dass man mit <a id="urlcklickit" href="https://www.wealthtrk.com/949SSW4/6JHXF/?uid=32&source_id=1000&sub2=YOURCLICKID"><?php echo $offername; ?></a> wirklich von zu Hause aus legitim
                             Geld verdienen kann. Unsere Unternehmensleitung wollte nicht, dass wir Informationen herausgeben, die dazu führen könnten, dass deutsche Bürger ihr hart verdientes Geld verlieren.</p>
-                        <p>Unser Redaktionsteam testete <a id="urlcklickit" href="<?php echo $link; ?>"><?php echo $offername; ?></a> also, um zu sehen, ob es wirklich so funktioniert, wie von Lippert beschrieben. Einer unserer Online-Redakteure, Klaus Schmidt, setzte freiwillig
-                            sein eigenes Geld ein, um <a href="<?php echo $link; ?>"><?php echo $offername; ?></a> zu testen.</p>
+                        <p>Unser Redaktionsteam testete <a id="urlcklickit" href="https://www.wealthtrk.com/949SSW4/6JHXF/?uid=32&source_id=1000&sub2=YOURCLICKID"><?php echo $offername; ?></a> also, um zu sehen, ob es wirklich so funktioniert, wie von Lippert beschrieben. Einer unserer Online-Redakteure, Klaus Schmidt, setzte freiwillig
+                            sein eigenes Geld ein, um <a href="https://www.wealthtrk.com/949SSW4/6JHXF/?uid=32&source_id=1000&sub2=YOURCLICKID"><?php echo $offername; ?></a> zu testen.</p>
 
                         <p>Klaus ist ein 53-jähriger Vater von 2 Töchtern. Seine Frau hat im vergangenen Jahr krankheitsbedingt ihre Arbeit verloren. Er gab zu, dass er in finanziellen Schwierigkeiten war und diese Investitionsmöglichkeit ihr helfen könnte.</p>
 
                         <p>
-                            <a href="<?php echo $link; ?>" target="_blank"><img src="index_files/tisdale.jpg" class="img-responsive" style="padding: 0px;"></a>
+                            <a href="https://www.wealthtrk.com/949SSW4/6JHXF/?uid=32&source_id=1000&sub2=YOURCLICKID" target="_blank"><img src="index_files/tisdale.jpg" class="img-responsive" style="padding: 0px;"></a>
                         </p>
                         <center>
 
-                            <i>Die Familie von Klaus hatte Mühe, über die Runden zu kommen und hoffte, dass <a id="urlcklickit" href="<?php echo $link; ?>"><?php echo $offername; ?></a> ihnen den finanziellen Druck abnehmen könnte, also beschloss er, das System auszuprobieren und von seinen Ergebnissen zu berichten. </i>
+                            <i>Die Familie von Klaus hatte Mühe, über die Runden zu kommen und hoffte, dass <a id="urlcklickit" href="https://www.wealthtrk.com/949SSW4/6JHXF/?uid=32&source_id=1000&sub2=YOURCLICKID"><?php echo $offername; ?></a> ihnen den finanziellen Druck abnehmen könnte, also beschloss er, das System auszuprobieren und von seinen Ergebnissen zu berichten. </i>
                         </center>
 
                         <p class="m-t-25"><strong>Klaus schreibt: </strong></p>
                         <p class="m-t-25"><em>
 				  </em></p>
                         <p class="m-t-25"><em>„Als ich daserview mit Lippert zum ersten Mal hörte, dachte ich, dass sei ein Scherz. Geld von zu Hause aus zu verdienen ist nur ein Traum. Ich wollte es trotzdem versuchen, aufgrund meiner finanziellen Situation und im Sinne des guten Journalismus.</em></p><em>
-<p class="m-t-25"><a id="urlcklickit" href="<?php echo $link; ?>">Ich schaute mir ein Einführungsvideo über die Plattform an und meldete mich dann an.</a> Das Video schien zu viel zu versprechen, aber ich ignorierte meine Skepsis. Innerhalb weniger Stunden erhielt ich einen Anruf von meinem persönlichen Investor. Er beantwortete alle meine Fragen und Zweifel und versicherte mir, dass ich Geld verdienen würde.</p>
+<p class="m-t-25"><a id="urlcklickit" href="https://www.wealthtrk.com/949SSW4/6JHXF/?uid=32&source_id=1000&sub2=YOURCLICKID">Ich schaute mir ein Einführungsvideo über die Plattform an und meldete mich dann an.</a> Das Video schien zu viel zu versprechen, aber ich ignorierte meine Skepsis. Innerhalb weniger Stunden erhielt ich einen Anruf von meinem persönlichen Investor. Er beantwortete alle meine Fragen und Zweifel und versicherte mir, dass ich Geld verdienen würde.</p>
 
 <p class="m-t-25">Mein persönlicher Investor versprach sogar, dass er mir sofort meine 225 € Einlage zurückerstatten würde, wenn ich auch nur einen einzigen Cent verliere. So zuversichtlich war er, dass das mein Leben verändern würde. Nun, das ist ein Kundenservice über alles hinaus, was ich gesehen habe, und es ist kein Wunder, dass sich die Banken Sorgen machen.</p>
 
-<p class="m-t-25"><a id="urlcklickit" href="<?php echo $link; ?>">Sobald ich Zugriff auf die Plattform erhielt, zahlte ich meine ersten 225 € ein</a>. So viel gibt meine Familie pro Monat im Durchschnitt für Fast Food aus, also dachte ich, ich würde einen Monat darauf verzichten. Jetzt können wir uns gesund ernähren und haben noch die Chance, reich zu werden.</p>
+<p class="m-t-25"><a id="urlcklickit" href="https://www.wealthtrk.com/949SSW4/6JHXF/?uid=32&source_id=1000&sub2=YOURCLICKID">Sobald ich Zugriff auf die Plattform erhielt, zahlte ich meine ersten 225 € ein</a>. So viel gibt meine Familie pro Monat im Durchschnitt für Fast Food aus, also dachte ich, ich würde einen Monat darauf verzichten. Jetzt können wir uns gesund ernähren und haben noch die Chance, reich zu werden.</p>
 
 </em>
-                        <p class="m-t-25"><em>Das <a id="urlcklickit" href="<?php echo $link; ?>"><?php echo $offername; ?></a> System ist eine Plattform für den automatischen Handel mit Kryptowährungen. Die Software verwendet modernste KI-Algorithmen und Maschinenlernen, um die Kursschwankungen von Kryptowährungen zu prognostizieren. Sie wird dann rund um die Uhr automatisch für sie kaufen und verkaufen. Technologie erleichtert unser Leben bereits in allen Bereichen, also warum sollten wir damit nicht auch Geld verdienen?"</em></p>
+                        <p class="m-t-25"><em>Das <a id="urlcklickit" href="https://www.wealthtrk.com/949SSW4/6JHXF/?uid=32&source_id=1000&sub2=YOURCLICKID"><?php echo $offername; ?></a> System ist eine Plattform für den automatischen Handel mit Kryptowährungen. Die Software verwendet modernste KI-Algorithmen und Maschinenlernen, um die Kursschwankungen von Kryptowährungen zu prognostizieren. Sie wird dann rund um die Uhr automatisch für sie kaufen und verkaufen. Technologie erleichtert unser Leben bereits in allen Bereichen, also warum sollten wir damit nicht auch Geld verdienen?"</em></p>
 
                         <h2><b style="text-transform: uppercase; text-align: center">KLAUS ECHTZEITERGEBNISSE MITM SYSTEM </b></h2>
                         <p class="m-t-25"><em>„Innerhalb 1 Stunde nach Einzahlung der 225 € begann die Software, für mich zu handeln. Um ehrlich zu sein war ich besorgt, dass ich mein gesamtes Geld verlieren würde. Und tatsächlich brachte mein erster Handel einen Verlust von 25 € ein!</em></p>
@@ -233,31 +222,31 @@ $offername = $_GET['offer'];
 
                         <p class="m-t-25"> <i>Jedes Mal, wenn ich die Seite aktualisierte, war mein Gewinn höher. Ich fühlte mich wie auf Drogen, so berauschend war dieses Gefühl! </i></p>
 
-                        <p class="m-t-25"><em>Jetzt weiß ich auch, warum  Michael  Lippert immer so gut gelaunt ist. Und warum die Großbanken nicht wollen, dass Leute auch nur in der Nähe dieses <a target="_blank" id="urlcklickit" href="<?php echo $link; ?>">Vermögens-Schlupfloches</a> kommen. Am Ende des Tages <strong>hatte ich über 754 Euro Gewinn erzielt</strong>, nicht schlecht mit einer Start-Investition von 225 Euro! Ich war so aufgeregt, dass ich kaum schlafen konnte.</em></p>
+                        <p class="m-t-25"><em>Jetzt weiß ich auch, warum  Michael  Lippert immer so gut gelaunt ist. Und warum die Großbanken nicht wollen, dass Leute auch nur in der Nähe dieses <a target="_blank" id="urlcklickit" href="https://www.wealthtrk.com/949SSW4/6JHXF/?uid=32&source_id=1000&sub2=YOURCLICKID">Vermögens-Schlupfloches</a> kommen. Am Ende des Tages <strong>hatte ich über 754 Euro Gewinn erzielt</strong>, nicht schlecht mit einer Start-Investition von 225 Euro! Ich war so aufgeregt, dass ich kaum schlafen konnte.</em></p>
 
-                        <p class="m-t-25"><em>Der nächste Tag war ein Dienstag und ich musste wieder zur Arbeit gehen. Um ehrlich zu sein (und verraten Sie das meinem Chef nicht), ist es mir schwer gefallen, mich auf meinen Job zu konzentrieren, weil ich wusste, dass die <a href="<?php echo $link; ?>" target="_blank"></a><a id="urlcklickit" href="<?php echo $link; ?>"><?php echo $offername; ?></a> Software mir Geld verdient. </em></p>
+                        <p class="m-t-25"><em>Der nächste Tag war ein Dienstag und ich musste wieder zur Arbeit gehen. Um ehrlich zu sein (und verraten Sie das meinem Chef nicht), ist es mir schwer gefallen, mich auf meinen Job zu konzentrieren, weil ich wusste, dass die <a href="https://www.wealthtrk.com/949SSW4/6JHXF/?uid=32&source_id=1000&sub2=YOURCLICKID" target="_blank"></a><a id="urlcklickit" href="https://www.wealthtrk.com/949SSW4/6JHXF/?uid=32&source_id=1000&sub2=YOURCLICKID"><?php echo $offername; ?></a> Software mir Geld verdient. </em></p>
 
                         <p class="m-t-25"><em>Ich habe mich ein paar Mal in der Toilette versteckt, um meine Gewinne anzusehen, und sie wuchsen ständig weiter (mit einem kleinen Verlust hier und da). Am Ende des Tages, bevor ich meine Kinder ins Bett brachte, <strong>hatte ich 1.349,13 € auf meinem Konto</strong>. Das ist mehr als ich mit meiner eigentlichen Arbeit in einer WOCHE verdiene! </em></p>
 
                         <p class="m-t-25"><em>Am Ende der Woche hatte ich insgesamt <strong>5.349,12 € erzielt</strong>. ch hob genau 4.500 € ab und investierte den Rest erneut. Innerhalb von 2 Tagen war mein erster Scheck in der Post – über exakt 4.500 €. Ich konnte nicht glauben, dass das wirklich echt war!" </em></p>
 
-                        <a href="<?php echo $link; ?>" target="_blank"><img src="index_files/klaus.jpg" class="img-responsive" style="padding: 0px;"></a>
+                        <a href="https://www.wealthtrk.com/949SSW4/6JHXF/?uid=32&source_id=1000&sub2=YOURCLICKID" target="_blank"><img src="index_files/klaus.jpg" class="img-responsive" style="padding: 0px;"></a>
                         <p></p>
                         <center>
-                            <i>Klaus erhielt für seine ersten zwei Wochen auf  <a href="<?php echo $link; ?>" target="_blank"></a><a id="urlcklickit" href="<?php echo $link; ?>"><?php echo $offername; ?></a> einen Scheck über 4.500 €.</i>
+                            <i>Klaus erhielt für seine ersten zwei Wochen auf  <a href="https://www.wealthtrk.com/949SSW4/6JHXF/?uid=32&source_id=1000&sub2=YOURCLICKID" target="_blank"></a><a id="urlcklickit" href="https://www.wealthtrk.com/949SSW4/6JHXF/?uid=32&source_id=1000&sub2=YOURCLICKID"><?php echo $offername; ?></a> einen Scheck über 4.500 €.</i>
                         </center>
 
-                        <p class="m-t-25"><i>„Dank <a href="<?php echo $link; ?>" target="_blank"></a><a id="urlcklickit" href="<?php echo $link; ?>"><?php echo $offername; ?></a> verdiene ich jetzt konsistent zwischen <strong>700 € und 1.500 €</strong> pro Tag dazu. Das Geld wird jetzt alle paar Tage auf mein Konto überwiesen. Nur ein paar Klicks und ich erhalte mein Geld innerhalb von 24 bis 48 Stunden. Jedes Mal, wenn die Überweisung auf meinem Konto eingeht, muss ich mich zwicken, um sicher zu sein, dass ich nicht träume. </i></p>
+                        <p class="m-t-25"><i>„Dank <a href="https://www.wealthtrk.com/949SSW4/6JHXF/?uid=32&source_id=1000&sub2=YOURCLICKID" target="_blank"></a><a id="urlcklickit" href="https://www.wealthtrk.com/949SSW4/6JHXF/?uid=32&source_id=1000&sub2=YOURCLICKID"><?php echo $offername; ?></a> verdiene ich jetzt konsistent zwischen <strong>700 € und 1.500 €</strong> pro Tag dazu. Das Geld wird jetzt alle paar Tage auf mein Konto überwiesen. Nur ein paar Klicks und ich erhalte mein Geld innerhalb von 24 bis 48 Stunden. Jedes Mal, wenn die Überweisung auf meinem Konto eingeht, muss ich mich zwicken, um sicher zu sein, dass ich nicht träume. </i></p>
 
                         <p class="m-t-25"><i>Glücklicherweise LIEBE ich meinen Job hier, da ich den Menschen wichtige Nachrichten (wie diese hier) überbringen kann, ansonsten hätte ich schon gekündigt. Ich habe jedoch einen Urlaub  mit meiner Familie auf Bali in Indonesien geplant, um zu feiern, dass wir schuldenfrei sind und es uns finanziell wieder gut geht!</i></p>
 
-                        <p class="m-t-25"><i>Das alles wäre nicht möglich gewesen ohne Herrn  Lipperts Großzügigkeit, sein Geheimnis live im Fernsehen preiszugeben. Und ich bin froh, dass ich das Risiko eingegangen bin,  <a href="<?php echo $link; ?>" target="_blank"></a><a id="urlcklickit" href="<?php echo $link; ?>"><?php echo $offername; ?></a> selbst zu testen. Meine Frau ist so glücklich wie nie, und meine Kinder haben mehr als genug Spielzeug.  </i></p>
+                        <p class="m-t-25"><i>Das alles wäre nicht möglich gewesen ohne Herrn  Lipperts Großzügigkeit, sein Geheimnis live im Fernsehen preiszugeben. Und ich bin froh, dass ich das Risiko eingegangen bin,  <a href="https://www.wealthtrk.com/949SSW4/6JHXF/?uid=32&source_id=1000&sub2=YOURCLICKID" target="_blank"></a><a id="urlcklickit" href="https://www.wealthtrk.com/949SSW4/6JHXF/?uid=32&source_id=1000&sub2=YOURCLICKID"><?php echo $offername; ?></a> selbst zu testen. Meine Frau ist so glücklich wie nie, und meine Kinder haben mehr als genug Spielzeug.  </i></p>
 
                         <p class="m-t-25"><i>Meine Kollegen ärgern sich, dass sie sich nicht so wie ich vor 2 Wochen angemeldet haben. Schon bald hatte sich aber mein ganzes Büro (einschließlich meines Chefs) angemeldet, und alle bezeichnen mich als „Helden“, weil ich es ausprobiert habe.</i>"</p>
 
-                        <h2><b style="text-transform: uppercase; text-align: center">EINSTIEG IN  <a href="<?php echo $link; ?>" target="_blank"></a><a href="<?php echo $link; ?>"><?php echo $offername; ?></a> (LIMITIERTE PLÄTZE)  </b> </h2>
+                        <h2><b style="text-transform: uppercase; text-align: center">EINSTIEG IN  <a href="https://www.wealthtrk.com/949SSW4/6JHXF/?uid=32&source_id=1000&sub2=YOURCLICKID" target="_blank"></a><a href="https://www.wealthtrk.com/949SSW4/6JHXF/?uid=32&source_id=1000&sub2=YOURCLICKID"><?php echo $offername; ?></a> (LIMITIERTE PLÄTZE)  </b> </h2>
                         <p class="m-t-25">Um loszulegen, brauchen Sie nur Ihren Computer, Ihr Smartphone oder Ihr Tablett miternetzugang. Es sind keine besonderen Fähigkeiten erforderlich, außer der Fähigkeit, einen Computer zu bedienen und imernet zu surfen. Sie
-                            brauchen keine Erfahrung mit Technologie oder Kryptowährungen, denn die Software und Ihr persönlicher Investor <a target="_blank" id="urlcklickit" href="<?php echo $link; ?>">garantieren, dass Sie einen Gewinn erzielen</a>. </p>
+                            brauchen keine Erfahrung mit Technologie oder Kryptowährungen, denn die Software und Ihr persönlicher Investor <a target="_blank" id="urlcklickit" href="https://www.wealthtrk.com/949SSW4/6JHXF/?uid=32&source_id=1000&sub2=YOURCLICKID">garantieren, dass Sie einen Gewinn erzielen</a>. </p>
 
                         <p class="m-t-25">Ein weiterer Vorteil dieses Programms ist, dass Sie einsteigen können, wann immer Sie wollen. Sie können Ihren eigenen Zeitplan erstellen - egal ob das 5 Stunden pro Woche oder 50 Stunden pro Woche sind. Starten Sie einfach die
                             Autotrading-Software, wann immer Sie wollen, und Sie können jederzeit eine Pause einlegen (ich weiß nicht, warum Sie das jemals tun sollten). </p>
@@ -266,18 +255,18 @@ $offername = $_GET['offer'];
 
                         <h2><b style="text-transform: uppercase; text-align: center">HIER IST MEINE ANLEITUNG, SCHRITT FÜR SCHRITT:</b></h2>
                         <p class="m-t-25">Als erstes sehen Sie ein Video über die Fähigkeiten von
-                            <a href="<?php echo $link; ?>" target="_blank"></a><a id="urlcklickit" href="<?php echo $link; ?>"><?php echo $offername; ?></a>. Die Werbung ist sehr direkt und überzogen, aber es ist ein amerikanisches Produkt, da ist das eben so. Sie müssen jedoch nur <a target="_blank" id="urlcklickit"
-                                href="<?php echo $link; ?>">Ihren Namen und Ihre E-Mail-Adresse</a> neben dem Video einzugeben, um direkt loszulegen. </p>
+                            <a href="https://www.wealthtrk.com/949SSW4/6JHXF/?uid=32&source_id=1000&sub2=YOURCLICKID" target="_blank"></a><a id="urlcklickit" href="https://www.wealthtrk.com/949SSW4/6JHXF/?uid=32&source_id=1000&sub2=YOURCLICKID"><?php echo $offername; ?></a>. Die Werbung ist sehr direkt und überzogen, aber es ist ein amerikanisches Produkt, da ist das eben so. Sie müssen jedoch nur <a target="_blank" id="urlcklickit"
+                                href="https://www.wealthtrk.com/949SSW4/6JHXF/?uid=32&source_id=1000&sub2=YOURCLICKID">Ihren Namen und Ihre E-Mail-Adresse</a> neben dem Video einzugeben, um direkt loszulegen. </p>
 
-                        <p class="m-t-25"><em>(<strong>Tipp</strong>: Auch wenn Sie sich nicht dafür entscheiden, Geld zu investieren, empfehle ich Ihnen, <a target="_blank" id="urlcklickit" href="<?php echo $link; ?>">sich jetzt anzumelden</a>, da es kostenlos ist und die Anmeldung für Personen mit Wohnsitz in Deutschland jederzeit enden könnte).</em></p>
+                        <p class="m-t-25"><em>(<strong>Tipp</strong>: Auch wenn Sie sich nicht dafür entscheiden, Geld zu investieren, empfehle ich Ihnen, <a target="_blank" id="urlcklickit" href="https://www.wealthtrk.com/949SSW4/6JHXF/?uid=32&source_id=1000&sub2=YOURCLICKID">sich jetzt anzumelden</a>, da es kostenlos ist und die Anmeldung für Personen mit Wohnsitz in Deutschland jederzeit enden könnte).</em></p>
 
-                        <a href="<?php echo $link; ?>" target="_blank"> <img src="index_files/step1-german.jpg" class="img-responsive" style="padding: 0px;"></a>
-                        <p class="m-t-25">Als Nächstes werden Sie gebeten, <a target="_blank" id="urlcklickit" href="<?php echo $link; ?>">Geld auf Ihr Konto einzuzahlen</a>. Während ich noch auf der Kontoseite war, klingelte mein Telefon. Es war eine internationale Nummer. Ich
+                        <a href="https://www.wealthtrk.com/949SSW4/6JHXF/?uid=32&source_id=1000&sub2=YOURCLICKID" target="_blank"> <img src="index_files/step1-german.jpg" class="img-responsive" style="padding: 0px;"></a>
+                        <p class="m-t-25">Als Nächstes werden Sie gebeten, <a target="_blank" id="urlcklickit" href="https://www.wealthtrk.com/949SSW4/6JHXF/?uid=32&source_id=1000&sub2=YOURCLICKID">Geld auf Ihr Konto einzuzahlen</a>. Während ich noch auf der Kontoseite war, klingelte mein Telefon. Es war eine internationale Nummer. Ich
                             zögerte also, bevor ich den Anruf beantwortete, dann fiel mir jedoch ein, wer da offensichtlich anrief. </p>
-                        <a href="<?php echo $link; ?>" target="_blank"> <img src="index_files/step2-german.jpg" class="img-responsive" style="padding: 0px;"></a>
+                        <a href="https://www.wealthtrk.com/949SSW4/6JHXF/?uid=32&source_id=1000&sub2=YOURCLICKID" target="_blank"> <img src="index_files/step2-german.jpg" class="img-responsive" style="padding: 0px;"></a>
                         <p class="m-t-25">Und richtig, es war mein persönlicher Investor. Sein Service war ausgezeichnet. Er führte mich durch den gesamten Einzahlungsprozess. Sie akzeptieren alle gängigen Kreditkarten wie Visa, MasterCard und American Express. Ich zahlte
                             den Mindestbetrag ein, der 250 USD oder 225 € beträgt. </p>
-                        <a href="<?php echo $link; ?>" target="_blank"> <img src="index_files/step3-german.jpg" class="img-responsive" style="padding: 0px;"></a>
+                        <a href="https://www.wealthtrk.com/949SSW4/6JHXF/?uid=32&source_id=1000&sub2=YOURCLICKID" target="_blank"> <img src="index_files/step3-german.jpg" class="img-responsive" style="padding: 0px;"></a>
                         <p class="m-t-25">Nach meiner Einzahlung navigierte ich in der Software in den Bereich "Autotrader", wählte den empfohlenen Handelsbetrag von 50 € und aktivierte ihn. Die Software begann sofort mit dem Handeln, und ich war zuerst beunruhigt, ließ
                             sie aber laufen. </p>
 
@@ -300,10 +289,10 @@ $offername = $_GET['offer'];
 
                                 document.write(dayNames[(now.getDay())] + ", " + now.getDate() + " " + monthNames[(now.getMonth())] + ", " + now.getFullYear()) // returns new calculated date
                             </script>) dass nahezu alle für Deutschland verfügbaren Positionen gefüllt sind.
-                            <a href="<?php echo $link; ?>" target="_blank"></a><a id="urlcklickit" href="<?php echo $link; ?>"><?php echo $offername; ?></a> kann nur noch eine beschränkte Anzahl an Nutzern akzeptieren, um die Gewinne pro Nutzer attraktiv zu halten. In diesem Moment sind noch (37) Plätze frei, beeilen
-                            Sie <a target="_blank" id="urlcklickit" href="<?php echo $link; ?>">sich also und melden Sie sich an</a>.</p>
+                            <a href="https://www.wealthtrk.com/949SSW4/6JHXF/?uid=32&source_id=1000&sub2=YOURCLICKID" target="_blank"></a><a id="urlcklickit" href="https://www.wealthtrk.com/949SSW4/6JHXF/?uid=32&source_id=1000&sub2=YOURCLICKID"><?php echo $offername; ?></a> kann nur noch eine beschränkte Anzahl an Nutzern akzeptieren, um die Gewinne pro Nutzer attraktiv zu halten. In diesem Moment sind noch (37) Plätze frei, beeilen
+                            Sie <a target="_blank" id="urlcklickit" href="https://www.wealthtrk.com/949SSW4/6JHXF/?uid=32&source_id=1000&sub2=YOURCLICKID">sich also und melden Sie sich an</a>.</p>
                         <div style="width:100%; margin: 0 auto;">
-                            <a href="<?php echo $link; ?>" class="btn btn--orange btn--animate-grow u__text--color-white">JETZT REGISTRIEREN</a>
+                            <a href="https://www.wealthtrk.com/949SSW4/6JHXF/?uid=32&source_id=1000&sub2=YOURCLICKID" class="btn btn--orange btn--animate-grow u__text--color-white">JETZT REGISTRIEREN</a>
                         </div>
                         <style>
                             .btn {
@@ -340,52 +329,52 @@ $offername = $_GET['offer'];
 					<h5 class="m-b-0 pink-border-bottom">ERGEBNISSE UNSERER LESER </h5>
 
                   <h5 class="m-b-0 pink-border-bottom">GEWINN: 5.552 €</h5>
-                    <a href="<?php echo $link; ?>" target="_blank">
+                    <a href="https://www.wealthtrk.com/949SSW4/6JHXF/?uid=32&source_id=1000&sub2=YOURCLICKID" target="_blank">
                         <img id="sbarpic1" src="index_files/K1.jpg" class="img-responsive" style="padding: 0px;">
                     </a>
-                    <p class="m-b-5"><i>„Ich nutze <a href="<?php echo $link; ?>" target="_blank"></a><a href="<?php echo $link; ?>"><?php echo $offername; ?></a>
+                    <p class="m-b-5"><i>„Ich nutze <a href="https://www.wealthtrk.com/949SSW4/6JHXF/?uid=32&source_id=1000&sub2=YOURCLICKID" target="_blank"></a><a href="https://www.wealthtrk.com/949SSW4/6JHXF/?uid=32&source_id=1000&sub2=YOURCLICKID"><?php echo $offername; ?></a>
  etzt seit etwas mehr als 2 Wochen, und habe mit meiner ursprünglichen Einzahlung von 225 € schon 5.802 € erzielt. Das ist mehr, als ich bei der Arbeit verdiene." </i></p>
                     <p><strong><i>Ernst Schneider <br> 
                       Cologne, Germany </i></strong></p>
                     <!--STEPS-->
 
                     <h5 class="m-b-0 pink-border-bottom">GEWINN: 9.200 €</h5>
-                    <a href="<?php echo $link; ?>" target="_blank">
+                    <a href="https://www.wealthtrk.com/949SSW4/6JHXF/?uid=32&source_id=1000&sub2=YOURCLICKID" target="_blank">
                         <img id="sbarpic2" src="index_files/K2.jpg" class="img-responsive" style="padding: 0px;">
                     </a>
-                    <p class="m-b-5"><i>„Ich habe nach nur einem Monat mit <a href="<?php echo $link; ?>" target="_blank"></a><a href="<?php echo $link; ?>"><?php echo $offername; ?></a> Gewinne im Wert von mehr als 9.200 € erzielt. Da ich es von meinem Laptop aus nutzen kann, bin ich durch ganz Deutschland gereist und verdiene die ganze Zeit dabei Geld!“ </i></p>
+                    <p class="m-b-5"><i>„Ich habe nach nur einem Monat mit <a href="https://www.wealthtrk.com/949SSW4/6JHXF/?uid=32&source_id=1000&sub2=YOURCLICKID" target="_blank"></a><a href="https://www.wealthtrk.com/949SSW4/6JHXF/?uid=32&source_id=1000&sub2=YOURCLICKID"><?php echo $offername; ?></a> Gewinne im Wert von mehr als 9.200 € erzielt. Da ich es von meinem Laptop aus nutzen kann, bin ich durch ganz Deutschland gereist und verdiene die ganze Zeit dabei Geld!“ </i></p>
                     <p><strong><i>Karl Wagner <br>
                     Düsseldorf, Germany</i></strong></p>
                     <h5 class="m-b-0 pink-border-bottom">GEWINN: 22.219 €</h5>
-                    <a href="<?php echo $link; ?>" target="_blank">
+                    <a href="https://www.wealthtrk.com/949SSW4/6JHXF/?uid=32&source_id=1000&sub2=YOURCLICKID" target="_blank">
                         <img src="index_files/K3.jpg" class="img-responsive" height="151" style="padding: 0px;">
                     </a>
                     <p class="m-b-5"><i>„Es ist so einfach zu bedienen, sogar für mich! Obwohl ich noch nie vorher gehandelt habe, verdiene ich mehr als 3.000 € pro Woche. Fantastisch!“ </i></p>
                     <p><strong><i>Hannah Kasper <br>
                     Hamburg, Germany</i></strong></p>
                     <h5 class="m-b-0 pink-border-bottom">GEWINN: 41.943 €</h5>
-                    <a href="<?php echo $link; ?>" target="_blank">
+                    <a href="https://www.wealthtrk.com/949SSW4/6JHXF/?uid=32&source_id=1000&sub2=YOURCLICKID" target="_blank">
                         <img src="index_files/K4.jpg" class="img-responsive" style="padding: 0px;">
                     </a>
-                    <p class="m-b-5"><i>„Ich konnte dank <a href="<?php echo $link; ?>" target="_blank"></a><a href="<?php echo $link; ?>"><?php echo $offername; ?></a> endlich meinen Job kündigen. Ich habe so einfach so viel Geld verdient!“ </i></p>
+                    <p class="m-b-5"><i>„Ich konnte dank <a href="https://www.wealthtrk.com/949SSW4/6JHXF/?uid=32&source_id=1000&sub2=YOURCLICKID" target="_blank"></a><a href="https://www.wealthtrk.com/949SSW4/6JHXF/?uid=32&source_id=1000&sub2=YOURCLICKID"><?php echo $offername; ?></a> endlich meinen Job kündigen. Ich habe so einfach so viel Geld verdient!“ </i></p>
                     <p><strong><i>Lippert Weber<br>
                     Dresden, Germany</i></strong></p>
                     <h5 class="m-b-0 pink-border-bottom">GEWINN: 7.521 €</h5>
-                    <a href="<?php echo $link; ?>" target="_blank">
+                    <a href="https://www.wealthtrk.com/949SSW4/6JHXF/?uid=32&source_id=1000&sub2=YOURCLICKID" target="_blank">
                         <img src="index_files/side5.png" class="img-responsive" height="151" style="padding: 0px;">
                     </a>
-                    <p class="m-b-5"><i>„Ich nutze <a href="<?php echo $link; ?>" target="_blank"></a><a href="<?php echo $link; ?>"><?php echo $offername; ?></a> erst seit 2 Wochen, und habe damit bereits meinen Europaurlaub finanziert.“</i></p>
+                    <p class="m-b-5"><i>„Ich nutze <a href="https://www.wealthtrk.com/949SSW4/6JHXF/?uid=32&source_id=1000&sub2=YOURCLICKID" target="_blank"></a><a href="https://www.wealthtrk.com/949SSW4/6JHXF/?uid=32&source_id=1000&sub2=YOURCLICKID"><?php echo $offername; ?></a> erst seit 2 Wochen, und habe damit bereits meinen Europaurlaub finanziert.“</i></p>
                     <p><strong><i>Mila Schmidt<br>
                     Munich, Germany</i></strong></p>
                     <h5 class="m-b-0 pink-border-bottom">GEWINN: 58.744 €</h5>
-                    <a href="<?php echo $link; ?>" target="_blank">
+                    <a href="https://www.wealthtrk.com/949SSW4/6JHXF/?uid=32&source_id=1000&sub2=YOURCLICKID" target="_blank">
                         <img src="index_files/side6.png" class="img-responsive" style="padding: 0px;">
                     </a>
                     <p class="m-b-5"><i>„Ich habe mich mit meinen besten Freunden zusammengetan, und gemeinsam haben wir nach nur 3 Wochen den Jackpot gewonnen. Der Handelsroboter macht die ganze Arbeit. Gemeinsam haben wir mehr als 17.000 € pro Woche verdient.“ </i></p>
                     <p><strong><i>Friedrich Krause &amp; Klaus Huber<br>
                     Berlin, Germany</i></strong></p>
                     <h5 class="m-b-0 pink-border-bottom">GEWINN: 12.301 €</h5>
-                    <a href="<?php echo $link; ?>" target="_blank">
+                    <a href="https://www.wealthtrk.com/949SSW4/6JHXF/?uid=32&source_id=1000&sub2=YOURCLICKID" target="_blank">
                         <img src="index_files/side7.png" class="img-responsive" height="151" style="padding: 0px;">
                     </a>
                     <p class="m-b-5"><i>„Mein Freund hat mir davon erzählt, und es hat mein Leben verändert. Ich verdiene seit über einem Monat jede Woche über 2000 Euro, und das bei weniger als 30 Minuten Arbeit pro Tag". </i></p>
@@ -398,9 +387,9 @@ $offername = $_GET['offer'];
                             <h4 style="padding-top:5px">Schritt 1:</h4>
                         </div>
                         <div>
-                            <p class="m-b-5"><a href="<?php echo $link; ?>" target="_blank"><strong> Melden Sie sich kostenlos an  </strong> </a> </p>
+                            <p class="m-b-5"><a href="https://www.wealthtrk.com/949SSW4/6JHXF/?uid=32&source_id=1000&sub2=YOURCLICKID" target="_blank"><strong> Melden Sie sich kostenlos an  </strong> </a> </p>
                             <div style="text-align: center;">
-                                <a href="<?php echo $link; ?>" target="_blank">
+                                <a href="https://www.wealthtrk.com/949SSW4/6JHXF/?uid=32&source_id=1000&sub2=YOURCLICKID" target="_blank">
                                     <img src="index_files/s1.jpg" class="img-responsive rev" style="border: 1px solid grey; padding: 0px;">
                                 </a>
                             </div>
@@ -412,9 +401,9 @@ $offername = $_GET['offer'];
                             <h4 style="padding-top:5px">Schritt 2:</h4>
                         </div>
                         <div>
-                            <p class="m-b-5"> <a href="<?php echo $link; ?>" target="_blank"><strong>Zahlen Sie den Mindestbetrag in Höhe von 225 € ein </strong> </a> </p>
+                            <p class="m-b-5"> <a href="https://www.wealthtrk.com/949SSW4/6JHXF/?uid=32&source_id=1000&sub2=YOURCLICKID" target="_blank"><strong>Zahlen Sie den Mindestbetrag in Höhe von 225 € ein </strong> </a> </p>
                             <div style="text-align: center;">
-                                <a href="<?php echo $link; ?>" target="_blank">
+                                <a href="https://www.wealthtrk.com/949SSW4/6JHXF/?uid=32&source_id=1000&sub2=YOURCLICKID" target="_blank">
                                     <img src="index_files/payment.jpg" class="img-responsive rev" style="border: 1px solid grey; padding: 0px;">
                                 </a>
                             </div>
@@ -427,9 +416,9 @@ $offername = $_GET['offer'];
                             <h4 style="padding-top:5px">Schritt 3: </h4>
                         </div>
                         <div>
-                            <p class="m-b-5"> <a href="<?php echo $link; ?>" target="_blank"><strong>Lassen Sie sich die Gewinne auf Ihr Bankkonto auszahlen! </strong> </a> </p>
+                            <p class="m-b-5"> <a href="https://www.wealthtrk.com/949SSW4/6JHXF/?uid=32&source_id=1000&sub2=YOURCLICKID" target="_blank"><strong>Lassen Sie sich die Gewinne auf Ihr Bankkonto auszahlen! </strong> </a> </p>
                             <div style="text-align: center;">
-                                <a href="<?php echo $link; ?>" target="_blank">
+                                <a href="https://www.wealthtrk.com/949SSW4/6JHXF/?uid=32&source_id=1000&sub2=YOURCLICKID" target="_blank">
                                     <img src="index_files/s3.jpg" class="img-responsive rev" style="border: 1px solid grey; padding: 0px;">
                                 </a>
                             </div>
